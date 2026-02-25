@@ -28,11 +28,11 @@ skinsight-ai/
 *.md
 !README.md
 !frontend/README.md
-deploy_to_hf.ps1
-deploy_to_hf.sh
-push_error.txt
-start_server_background.ps1
-start_server.bat
-test_api.py
-test_cuda.py
+!deploy_to_hf.ps1
+!deploy_to_hf.sh
+!push_error.txt
+!start_server_background.ps1
+!start_server.bat
+!test_api.py
+!test_cuda.py
 
