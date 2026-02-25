@@ -23,3 +23,8 @@ Thumbs.db
 models/
 *.pth
 skinsight-ai/
+
+# Ignore markdown files except README
+*.md
+!README.md
+!frontend/README.md
