@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+tqdm
+ipykernel
+opencv-python
+python-multipart
+# Note: torch, torchvision, torchaudio should be installed with CUDA support explicitly:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121

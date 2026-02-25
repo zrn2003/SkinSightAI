@@ -1,0 +1,25 @@
+# Python & Virtual Environments
+venv/
+venv_new/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Node.js & Frontend
+node_modules/
+frontend/dist/
+frontend/build/
+.env
+
+# Large Files & Datasets
+Dataset/
+Dataset_Cache_Main/
+reference paper/
+
+# OS specific
+.DS_Store
+Thumbs.db
+.skinsight-ai
+models/
+*.pth
+skinsight-ai/

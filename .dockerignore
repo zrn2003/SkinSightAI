@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+venv_new/
+env/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Documentation
+*.md
+!SPACE_README.md
+
+# Frontend (not needed for API)
+frontend/
+node_modules/
+
+# Data and splits (not needed for inference)
+Dataset/
+Dataset_Cache_Main/
+splits/
+results/
+reference paper/
+
+# Test files
+test_*.py
+*.test.ts
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Deployment scripts
+deploy_to_hf.*
+HUGGINGFACE_DEPLOYMENT.md
+
+# Other
+*.log
+.env
